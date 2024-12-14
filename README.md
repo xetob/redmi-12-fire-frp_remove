@@ -1,6 +1,7 @@
 # redmi-12-fire-frp_remove
 remove frp programm for redmi 12
 #en
+
 supported devices: redmi 12 fire or heat
 
 required programs for work: USBdk(https://github.com/daynix/usbdk/releases)
@@ -11,6 +12,7 @@ This program is designed to remove FRP only if you have forgotten your Google ac
 Thank you for understanding
 
 #ru
+
 поддерживаемые устройства: Redmi 12 Fire или Heat
 
 необходимые программы для работы: USBdk (https://github.com/daynix/usbdk/releases)
