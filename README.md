@@ -40,4 +40,3 @@ python (python.org)
 зажмите 3 кнопки на телефоне и выбирете в Filter Wizard устройство MTK port и нажмите Install. Дальше в программе нажмите удалить фрп и зажмите 3 кнопки на телефоне
 
 donate - https://boosty.to/xetob/donate
-вщтфеу
