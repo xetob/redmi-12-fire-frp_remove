@@ -19,6 +19,8 @@ Thank you for understanding
 
 # instructions for use:
 
+open program and click install dependencies
+
 hold down 3 buttons on the phone and select the MTK port program in the Filter Wizard (LibUsb) and click install. Next in the program, click delete fp and hold down 3 buttons on the phone
 
 # ru
@@ -33,10 +35,15 @@ LibUsb: https://sourceforge.net/projects/libusb-win32/files/libusb-win32-release
 
 python (python.org)
 
+
+
 Эта программа предназначена для удаления FRP только в том случае, если вы забыли пароль своей учетной записи Google, и не поддерживает, если вы хотите взломать чей-то телефон. Также я не несу ответственности за ваши данные (они будут удалены) и за ваши действия с телефоном. 
 Спасибо за понимание
 
 # инструкция по использованию:
+
+откройте программу и нажмите install dependencies
+
 зажмите 3 кнопки на телефоне и выбирете в Filter Wizard устройство MTK port и нажмите Install. Дальше в программе нажмите удалить фрп и зажмите 3 кнопки на телефоне
 
 donate - https://boosty.to/xetob/donate
