@@ -16,7 +16,7 @@ Thank you for understanding
 
 # instructions for use:
 
-hold down 3 buttons on the phone and select the MTK port program in the Filter Wizard (LibUsb). Next in the program, click delete fp and hold down 3 buttons on the phone
+hold down 3 buttons on the phone and select the MTK port program in the Filter Wizard (LibUsb) and click install. Next in the program, click delete fp and hold down 3 buttons on the phone
 
 # ru
 
@@ -31,4 +31,4 @@ python (python.org)
 Спасибо за понимание
 
 # инструкция по использованию:
-зажмите 3 кнопки на телефоне и выбирете в Filter Wizard (LibUsb) программа MTK port. Дальше в программе нажмите удалить фрп и зажмите 3 кнопки на телефоне
+зажмите 3 кнопки на телефоне и выбирете в Filter Wizard устройство MTK port и нажмите Install. Дальше в программе нажмите удалить фрп и зажмите 3 кнопки на телефоне
