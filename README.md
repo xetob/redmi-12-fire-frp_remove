@@ -1,5 +1,6 @@
 # redmi-12-fire-frp_remove
 remove frp programm for redmi 12
+
 #en
 
 supported devices: redmi 12 fire or heat
